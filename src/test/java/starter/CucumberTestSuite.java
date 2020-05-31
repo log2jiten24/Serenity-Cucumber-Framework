@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         plugin = {"pretty"},
         features = "src/test/resources/features",
-        tags = {"@Newtoursdemo"}
+        tags = {"@OrangeHRM"}
 )
 public class CucumberTestSuite {
 	
